@@ -19,12 +19,12 @@ Computer Science PhD candidate at the University of Dayton, graduating in
 
 ### ML and AI
 
+- [Reasoning Model Failure Analysis Companion](https://github.com/02061997/reasoning-model-failure-analysis-companion) — sanitized public companion for forced-reconsideration LLM failure analysis with synthetic goal-betrayal and partial-undo artifacts, no private prompts, and no raw model outputs.
 - [Adversarial RL Feature Selection](https://github.com/02061997/adversarial-rl-feature-selection) — public reconstruction with published-result separation and explicit `NOT_RUN` PPO/ARS experiments.
 - [Mouse Brain Cell Segmentation](https://github.com/02061997/mouse-brain-cell-segmentation) — COCO-style public companion with synthetic six-class fluorescence evaluation and private-data boundaries.
 - [Virtual Yoga Instructor](https://github.com/02061997/virtual-yoga-instructor) — MediaPipe-compatible feedback engine with eight joint angles, TCP/JSON packets, and geometry latency evidence.
 - [Career Prediction Benchmark](https://github.com/02061997/career-prediction-benchmark) — privacy-safe multi-output benchmark reconstruction with 26-to-11 entropy feature selection.
 - [AI for Construction Safety](https://github.com/02061997/ai-for-construction-safety) — GROVE evidence package with F1 `0.7591`, paired tests, threshold sensitivity, and claim traceability.
-- Reasoning Model Failure Analysis — private during active research review
 
 ### Quantitative Research
 
