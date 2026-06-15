@@ -44,6 +44,9 @@ prediction, and AI for construction safety. See
 The source for my professional portfolio and verified project evidence is in the
 [portfolio repository](https://github.com/02061997/portfolio).
 
+For a role-fit ranking of the strongest public repositories, see the
+[Verified Research Portfolio](https://github.com/02061997/portfolio/blob/main/VERIFIED_RESEARCH.md).
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/abhijeetgupta02)
