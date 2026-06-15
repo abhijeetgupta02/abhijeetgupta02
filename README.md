@@ -19,19 +19,19 @@ Computer Science PhD candidate at the University of Dayton, graduating in
 
 ### ML and AI
 
-- [Adversarial RL Feature Selection](https://github.com/02061997/adversarial-rl-feature-selection)
-- [Mouse Brain Cell Segmentation](https://github.com/02061997/mouse-brain-cell-segmentation)
-- [Virtual Yoga Instructor](https://github.com/02061997/virtual-yoga-instructor)
-- [Career Prediction Benchmark](https://github.com/02061997/career-prediction-benchmark)
-- [AI for Construction Safety](https://github.com/02061997/ai-for-construction-safety)
+- [Adversarial RL Feature Selection](https://github.com/02061997/adversarial-rl-feature-selection) — public reconstruction with published-result separation and explicit `NOT_RUN` PPO/ARS experiments.
+- [Mouse Brain Cell Segmentation](https://github.com/02061997/mouse-brain-cell-segmentation) — COCO-style public companion with synthetic six-class fluorescence evaluation and private-data boundaries.
+- [Virtual Yoga Instructor](https://github.com/02061997/virtual-yoga-instructor) — MediaPipe-compatible feedback engine with eight joint angles, TCP/JSON packets, and geometry latency evidence.
+- [Career Prediction Benchmark](https://github.com/02061997/career-prediction-benchmark) — privacy-safe multi-output benchmark reconstruction with 26-to-11 entropy feature selection.
+- [AI for Construction Safety](https://github.com/02061997/ai-for-construction-safety) — GROVE evidence package with F1 `0.7591`, paired tests, threshold sensitivity, and claim traceability.
 - Reasoning Model Failure Analysis — private during active research review
 
 ### Quantitative Research
 
-- [Options Pricing and Greeks](https://github.com/02061997/options-pricing-and-greeks)
-- [Statistical Pairs Trading](https://github.com/02061997/statistical-pairs-trading)
-- [GARCH Volatility Modeling](https://github.com/02061997/garch-volatility-modeling)
-- [Financial Time-Series Forecasting](https://github.com/02061997/financial-time-series-forecasting)
+- [Options Pricing and Greeks](https://github.com/02061997/options-pricing-and-greeks) — Black-Scholes, Greeks, Monte Carlo variance reduction, no-arbitrage tests, and implied-volatility surface recovery.
+- [Statistical Pairs Trading](https://github.com/02061997/statistical-pairs-trading) — leakage-controlled AAPL-MSFT, KO-PEP, XOM-CVX backtests; only KO-PEP passes the 5% cointegration gate.
+- [GARCH Volatility Modeling](https://github.com/02061997/garch-volatility-modeling) — daily one-step forecasts where GARCH wins RMSE on 4/6 symbols and QLIKE on 5/6.
+- [Financial Time-Series Forecasting](https://github.com/02061997/financial-time-series-forecasting) — ARIMA, ML baselines, and repeated LSTM seeds; ARIMA wins MAE/RMSE in the verified run.
 
 ## Publications
 
