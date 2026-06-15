@@ -41,7 +41,7 @@ prediction, and AI for construction safety. See
 
 ## Portfolio
 
-The source for my professional portfolio and verified public resumes is in the
+The source for my professional portfolio and verified project evidence is in the
 [portfolio repository](https://github.com/02061997/portfolio).
 
 ## Contact
