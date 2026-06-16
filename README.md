@@ -2,20 +2,44 @@
 
 **CS PhD Candidate · ML / AI Engineer · Research Engineer**
 
+[![Profile Views](https://komarev.com/ghpvc/?username=abhijeetgupta02&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/abhijeetgupta02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijeetgupta02-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhijeetgupta02)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ViNPVRIAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-abhijeetguptaphd%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhijeetguptaphd@gmail.com)
+
+---
+
 I build reproducible machine-learning systems for LLM evaluation,
 reinforcement learning, computer vision, and quantitative modeling. I am a
 Computer Science PhD candidate at the University of Dayton, graduating in
 **May 2027**, with prior engineering and ML experience at Walmart.
 
-## Current Focus
+---
 
-- Reasoning-model evaluation and interpretability
-- Robust reinforcement learning under observation noise
-- Computer vision and vision-language evaluation
-- Leakage-controlled quantitative modeling
-- Reproducible Python research infrastructure
+## 🔬 Current Focus
 
-## Selected Projects
+- 🧠 Reasoning-model evaluation and interpretability
+- 🤖 Robust reinforcement learning under observation noise
+- 👁️ Computer vision and vision-language evaluation
+- 📈 Leakage-controlled quantitative modeling
+- 🐍 Reproducible Python research infrastructure
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetgupta02&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetgupta02&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhijeetgupta02&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🚀 Selected Projects
 
 ### ML and AI
 
@@ -33,13 +57,25 @@ Computer Science PhD candidate at the University of Dayton, graduating in
 - [GARCH Volatility Modeling](https://github.com/abhijeetgupta02/garch-volatility-modeling) — daily one-step forecasts where GARCH wins RMSE on 4/6 symbols and QLIKE on 5/6.
 - [Financial Time-Series Forecasting](https://github.com/abhijeetgupta02/financial-time-series-forecasting) — ARIMA, ML baselines, and repeated LSTM seeds; ARIMA wins MAE/RMSE in the verified run.
 
-## Publications
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetgupta02&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📝 Publications
 
 My publication record covers adversarial RL, computer vision, career
 prediction, and AI for construction safety. See
 [Google Scholar](https://scholar.google.com/citations?user=ViNPVRIAAAAJ&hl=en).
 
-## Portfolio
+---
+
+## 💼 Portfolio
 
 The source for my professional portfolio and verified project evidence is in the
 [portfolio repository](https://github.com/abhijeetgupta02/portfolio).
@@ -47,8 +83,10 @@ The source for my professional portfolio and verified project evidence is in the
 For a role-fit ranking of the strongest public repositories, see the
 [Verified Research Portfolio](https://github.com/abhijeetgupta02/portfolio/blob/main/VERIFIED_RESEARCH.md).
 
-## Contact
+---
 
-- [LinkedIn](https://www.linkedin.com/in/abhijeetgupta02)
-- [Google Scholar](https://scholar.google.com/citations?user=ViNPVRIAAAAJ&hl=en)
-- [Email](mailto:abhijeetguptaphd@gmail.com)
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeetgupta02)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ViNPVRIAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijeetguptaphd@gmail.com)
