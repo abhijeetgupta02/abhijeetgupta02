@@ -2,6 +2,7 @@
 
 **CS PhD Candidate · ML / AI Engineer · Research Engineer**
 
+[![Website](https://img.shields.io/badge/Portfolio-abhijeetgupta.me-0e75b6?style=flat-square&logo=google-chrome&logoColor=white)](https://abhijeetgupta.me/)
 [![Profile Views](https://komarev.com/ghpvc/?username=abhijeetgupta02&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/abhijeetgupta02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijeetgupta02-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhijeetgupta02)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ViNPVRIAAAAJ&hl=en)
@@ -13,6 +14,8 @@ I build reproducible machine-learning systems for LLM evaluation,
 reinforcement learning, computer vision, and quantitative modeling. I am a
 Computer Science PhD candidate at the University of Dayton, graduating in
 **May 2027**, with prior engineering and ML experience at Walmart.
+
+🌐 **Personal Website:** [abhijeetgupta.me](https://abhijeetgupta.me/)
 
 ---
 
@@ -87,6 +90,7 @@ For a role-fit ranking of the strongest public repositories, see the
 
 ## 📬 Contact
 
+[![Website](https://img.shields.io/badge/Portfolio-abhijeetgupta.me-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhijeetgupta.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeetgupta02)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ViNPVRIAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijeetguptaphd@gmail.com)
