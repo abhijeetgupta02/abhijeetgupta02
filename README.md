@@ -29,6 +29,14 @@ Computer Science PhD candidate at the University of Dayton, graduating in
 
 ---
 
+## 🧰 Tooling & Benchmarks
+
+- [VLM Eval Harness](https://github.com/abhijeetgupta02/vlm-eval-harness) — CLI for multimodal model evaluation with JSON/CSV logs.
+- [Robust RL under Observation Noise](https://github.com/abhijeetgupta02/robust-rl-observation-noise-benchmark) — CartPole noise benchmark with DQN baseline and extensible noise processes.
+- [Reproducible ML Experiments Template](https://github.com/abhijeetgupta02/reproducible-ml-experiments-template) — drop-in skeleton for config-driven, per-run logged experiments.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
