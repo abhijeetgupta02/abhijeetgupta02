@@ -76,6 +76,13 @@ Computer Science PhD candidate at the University of Dayton, graduating in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetgupta02&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijeetgupta02/abhijeetgupta02/output/github-snake-dark.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abhijeetgupta02/abhijeetgupta02/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 📝 Publications
