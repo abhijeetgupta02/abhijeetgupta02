@@ -83,6 +83,12 @@ Computer Science PhD candidate at the University of Dayton, graduating in
   </picture>
 </p>
 
+## 🛰️ Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Auto-updated daily in the cloud by .github/workflows/activity.yml -->
+<!--END_SECTION:activity-->
+
 ---
 
 ## 📝 Publications
