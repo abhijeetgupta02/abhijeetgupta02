@@ -86,12 +86,11 @@ Computer Science PhD candidate at the University of Dayton, graduating in
 ## 🛰️ Recent Activity
 
 <!--START_SECTION:activity-->
+- ✨ Created branch in [`abhijeetgupta02/resumeradar`](https://github.com/abhijeetgupta02/resumeradar)
 - ✨ Created branch in [`abhijeetgupta02/awesome-llm-reasoning-evaluation`](https://github.com/abhijeetgupta02/awesome-llm-reasoning-evaluation)
 - ⭐ Starred [`abhijeetgupta02/robust-rl-observation-noise-benchmark`](https://github.com/abhijeetgupta02/robust-rl-observation-noise-benchmark)
-- 🔀 Opened a PR in [`abhijeetgupta02/vlm-eval-harness`](https://github.com/abhijeetgupta02/vlm-eval-harness)
-- ✨ Created branch in [`abhijeetgupta02/vlm-eval-harness`](https://github.com/abhijeetgupta02/vlm-eval-harness)
 
-_Last updated: 2026-06-24_
+_Last updated: 2026-06-25_
 <!--END_SECTION:activity-->
 
 ---
