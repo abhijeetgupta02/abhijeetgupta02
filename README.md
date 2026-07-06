@@ -44,10 +44,6 @@ Computer Science PhD candidate at the University of Dayton, graduating in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetgupta02&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhijeetgupta02&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🚀 Selected Projects
@@ -69,19 +65,6 @@ Computer Science PhD candidate at the University of Dayton, graduating in
 - [Financial Time-Series Forecasting](https://github.com/abhijeetgupta02/financial-time-series-forecasting) — ARIMA, ML baselines, and repeated LSTM seeds (ARIMA wins MAE/RMSE in the verified run), with Diebold-Mariano and Theil U2 significance tests.
 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetgupta02&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijeetgupta02/abhijeetgupta02/output/github-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abhijeetgupta02/abhijeetgupta02/output/github-snake.svg" />
-  </picture>
-</p>
 
 ## 🛰️ Recent Activity
 
