@@ -176,7 +176,7 @@ Daily one-step volatility forecasts benchmarked with Mincer–Zarnowitz calibrat
 <!--START_SECTION:activity-->
 - _Recent public activity will appear here._
 
-_Last updated: 2026-09-18_
+_Last updated: 2026-09-19_
 <!--END_SECTION:activity-->
 
 ---
