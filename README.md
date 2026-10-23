@@ -174,9 +174,12 @@ Daily one-step volatility forecasts benchmarked with Mincer–Zarnowitz calibrat
 ## 🛰️ Recent Activity
 
 <!--START_SECTION:activity-->
-- _Recent public activity will appear here._
+- 🚀 Released `v1.1.1` in [`abhijeetgupta02/GROVE`](https://github.com/abhijeetgupta02/GROVE)
+- 🚀 Released `v1.1.0` in [`abhijeetgupta02/GROVE`](https://github.com/abhijeetgupta02/GROVE)
+- ✨ Created branch in [`abhijeetgupta02/GROVE`](https://github.com/abhijeetgupta02/GROVE)
+- 🚀 Released `v1.0.0` in [`abhijeetgupta02/GROVE`](https://github.com/abhijeetgupta02/GROVE)
 
-_Last updated: 2026-10-22_
+_Last updated: 2026-10-23_
 <!--END_SECTION:activity-->
 
 ---
